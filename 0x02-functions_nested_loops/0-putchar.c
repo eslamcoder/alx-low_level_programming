@@ -1,9 +1,8 @@
 #include  <main.h>
-#include <unistd.h>
 /**
- * main - Print _putchar
- * Is writting by mbah
- * Return 0
+ * main - print _putchar
+ * Is written by mbah
+ * Return: 0
  */
 
 int main(void)
